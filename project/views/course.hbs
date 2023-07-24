@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{course.tenHocPhan}}</title>
+  <style>
+    /* Set up the flexbox layout */
+    body {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 0;
+    }
+    .course-info {
+      flex-basis: 50%;
+      padding: 20px;
+      border: 1px solid #ccc;
+    }
+    .course-image {
+      flex-basis: 50%;
+      padding: 20px;
+    }
+    /* Style the course data */
+    h1, p {
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    strong {
+      display: inline-block;
+      width: 150px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="course-info">
+    <h1>{{course.tenHocPhan}}</h1>
+    <p><strong>ID:</strong> {{course.id}}</p>
+    <p><strong>Mã học phần:</strong> {{course.maHocPhan}}</p>
+    <p><strong>Thời lượng:</strong> {{course.thoiLuong}}</p>
+    <p><strong>Số tín chỉ:</strong> {{course.soTinChi}}</p>
+    <p><strong>Tín chỉ học phí:</strong> {{course.tinChiHocPhi}}</p>
+    <p><strong>Trọng số:</strong> {{course.trongSo}}</p>
+    <p><strong>Học phần điều kiện:</strong> {{course.hocPhanDieuKien}}</p>
+    <p><strong>Tên tiếng Anh:</strong> {{course.tenTiengAnh}}</p>
+    <p><strong>Viện quản lý:</strong> {{course.vienQuanLy}}</p>
+    <p><strong>Mục tiêu:</strong> {{course.mucTieu}}</p>
+    <p><strong>Nội dung:</strong> {{course.noiDung}}</p>
+  </div>
+  <div class="course-image">
+    <object data="/courses/{{course.maHocPhan}}/image0tred" type="image/svg+xml">
+      Your browser does not support SVG images
+    </object>
+  </div>
+</body>
+</html>

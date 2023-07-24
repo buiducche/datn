@@ -1,0 +1,153 @@
+<html>
+
+<head>
+    <title>Course Dependance</title>
+    <link rel="icon" type="image/png" href="logo_hust.ico" />
+    <style>
+        /* Set the background color and font for the page */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        /*
+      Set the style for the header */
+        header {
+            background-color: #c5b7b7;
+            color:
+                #fff;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        /* Style the logo container */
+        #logo-container {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Style the logo image */
+        #logo-container img {
+            height: 60px;
+            margin-right: 10px;
+        }
+
+        /* Style the logo text */
+        #logo-text {
+            margin: 0;
+            width: 500px;
+        }
+
+        /* Style the UL list */
+        nav ul {
+            list-style-type: none;
+            margin-left: 30px;
+            padding: 0;
+            display: flex;
+        }
+
+        /* Style the LI items in the UL list */
+        nav li {
+            margin-right: 10px;
+        }
+
+        nav li a {
+            color: #878181;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 18px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        nav li a:hover {
+            color: #9493c7;
+        }
+
+        /* Style the search box */
+        #search-box {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 5px;
+            width: 200px;
+        }
+
+        /* Style the search button */
+        #search-button {
+            background-color: #5488c7;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+
+        /* Style the search button on hover */
+        #search-button:hover {
+            background-color: #555;
+        }
+
+        #download-button {
+            background-color: #5488c7;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+
+        #download-button:hover {
+            background-color: #555;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        img {
+            max-width: 45%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div id='logo-container'>
+            <img src='Logo_Hust.png' alt='My Logo' />
+            <h1 id='logo-text'>Tra cứu phụ thuộc dư thừa</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href='/'>Home</a></li>
+                <li><a href='./tred'>Tred</a></li>
+                <li><a href='./cycle'>Cycle</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <main>
+        <form action='/tred' method='post'>
+            <input type='text' id='search-box' name="courseID" placeholder='Search...' />
+            <button type='submit' id='search-button'>Search</button>
+        </form>
+        <a href="/tred/download" download>
+            <button id='download-button'>Download tred log</button>
+        </a>
+
+
+        {{#if courseID}}
+        <h1>Tred Comparison</h1>
+        <div class="image-container">
+            <img src="/courses/{{courseID}}/image0origin" alt="Image 1" />
+            <img src="/courses/{{courseID}}/image0tred" alt="Image 2" />
+        </div>
+        {{/if}}
+    </main>
+</body>
+
+</html>
