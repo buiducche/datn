@@ -2,10 +2,14 @@ import { Controller, Get, Param, Post, Query, Render, Res, Body } from '@nestjs/
 import { Response } from 'express';
 import * as path from 'path';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { SearchService } from './search/search.service';
 
 @ApiTags('Cycle')
 @Controller('cycle')
 export class CycleController {
+  constructor(
+    private readonly searchService: SearchService,
+  ) {}
 
   @Get()
   @Render('cycle')
@@ -16,6 +20,7 @@ export class CycleController {
   @Post()
   @Render('cycle')
   async compareTred(@Body('courseID') courseID: string) {
+    await this.searchService.createByCourseID(courseID,'cycle')
     return { courseID };
   }
 

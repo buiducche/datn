@@ -2,10 +2,14 @@ import { Controller, Get, Param, Post, Query, Render, Res, Body } from '@nestjs/
 import { Response } from 'express';
 import * as path from 'path';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { SearchService } from './search/search.service';
 
 @ApiTags('Tred')
 @Controller('tred')
 export class TredController {
+  constructor(
+    private readonly searchService: SearchService,
+  ) {}
 
   @Get()
   @Render('tred')
@@ -16,6 +20,7 @@ export class TredController {
   @Post()
   @Render('tred')
   async compareTred(@Body('courseID') courseID: string) {
+    await this.searchService.createByCourseID(courseID,'tred')
     return { courseID };
   }
 

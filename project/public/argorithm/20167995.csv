@@ -1,0 +1,146 @@
+,STT,Mã HP,Tên HP,Kỳ học,Bắt buộc,TC ĐT,TC học,Mã HP học,Ghi chú loại HP,Điểm chữ,Điểm số,Viện/Khoa
+0,0,EM1170,Pháp luật đại cương,1,True,2,2,EM1170,Chung toàn trường,B+,3.5,KKTVQL
+1,1,MIL1110,Đường lối quân sự,1,True,0,0,MIL1110,Chung toàn trường,R,0,KGDQP
+2,2,MIL1120,Công tác quốc phòng-An ninh,1,True,0,0,MIL1120,Chung toàn trường,R,0,KGDQP
+3,3,MIL1130,QS chung và KCT bắn súng AK,3,True,0,0,MIL1130,Chung toàn trường,R,0,KGDQP
+4,4,PE1010,Giáo dục thể chất A,1,True,0,0,PE1010,Chung toàn trường,B+,3.5,BGDTC
+5,5,PE1020,Giáo dục thể chất B,2,True,0,0,PE1020,Chung toàn trường,D+,1.5,BGDTC
+6,6,PE1030,Giáo dục thể chất C,3,True,0,,,Chung toàn trường, , ,BGDTC
+7,7,SSH1050,Tư tưởng HCM,3,True,2,2,SSH1050,Chung toàn trường,D+,1.5,KML
+8,8,SSH1110,Những NLCB của CNML I,1,True,2,2,SSH1110,Chung toàn trường,B+,3.5,KML
+9,9,SSH1120,Những NLCB của CNML II,1,True,3,3,SSH1120,Chung toàn trường,C,2,KML
+10,10,SSH1130,Đường lối CM của ĐCSVN,4,True,3,3,SSH1130,Chung toàn trường,A,4,KML
+11,11,EM1010,Quản trị học đại cương,2,True,2,2,EM1010,BB khối kỹ thuật,C,2,KKTVQL
+12,12,IT1110,Tin học đại cương,3,True,4,4,IT1110,BB khối kỹ thuật,B,3,TCNTT
+13,13,MI1110,Giải tích I,1,True,4,4,MI1111,BB khối kỹ thuật,C,2,KTTD
+14,14,MI1120,Giải tích II,2,True,3,3,MI1121,BB khối kỹ thuật,C,2,KTTD
+15,15,MI1130,Giải tích III,2,True,3,3,MI1131,BB khối kỹ thuật,D+,1.5,KTTD
+16,16,MI1140,Đại số,1,True,4,4,MI1141,BB khối kỹ thuật,D,1,KTTD
+17,17,PH1110,Vật lý đại cương I,1,True,3,3,PH1110,BB khối kỹ thuật,B+,3.5,VVLKT
+18,18,PH1120,Vật lý đại cương II,2,True,3,3,PH1120,BB khối kỹ thuật,C,2,VVLKT
+19,19,IT2000,Nhập môn CNTT và TT,3,True,3,3,IT2000,BB Công nghệ thông tin,A,4,TCNTT
+20,20,IT3010,Cấu trúc dữ liệu và giải thuật,4,True,3,3,IT3010,BB Công nghệ thông tin,D+,1.5,TCNTT
+21,21,IT3020,Toán rời rạc,4,True,3,3,IT3020,BB Công nghệ thông tin,C,2,TCNTT
+22,22,IT3030,Kiến trúc máy tính,4,True,3,3,IT3030,BB Công nghệ thông tin,B,3,TCNTT
+23,23,IT3040,Kỹ thuật lập trình,4,True,2,2,IT3040,BB Công nghệ thông tin,D+,1.5,TCNTT
+24,24,IT3070,Nguyên lý hệ điều hành,4,True,3,3,IT3070,BB Công nghệ thông tin,D,1,TCNTT
+25,25,IT3080,Mạng máy tính,5,True,3,3,IT3080,BB Công nghệ thông tin,C,2,TCNTT
+26,26,IT3090,Cơ sở dữ liệu,5,True,3,3,IT3090,BB Công nghệ thông tin,D+,1.5,TCNTT
+27,27,IT3100,Lập trình hướng đối tượng,5,True,2,2,IT3100,BB Công nghệ thông tin,C,2,TCNTT
+28,28,IT3110,Linux và phần mềm nguồn mở,5,True,2,2,IT3110,BB Công nghệ thông tin,B,3,TCNTT
+29,29,IT3120,Phân tích và thiết kế hệ thống,6,True,2,2,IT3120,BB Công nghệ thông tin,B,3,TCNTT
+30,30,IT3910,Project I,5,True,3,3,IT3910,BB Công nghệ thông tin,B+,3.5,TCNTT
+31,31,IT3920,Project II,6,True,3,3,IT3920,BB Công nghệ thông tin,B,3,TCNTT
+32,32,IT4010,An toàn và bảo mật thông tin,6,True,3,3,IT4015,BB Công nghệ thông tin,B,3,TCNTT
+33,33,IT4040,Trí tuệ nhân tạo,5,True,3,3,IT3160,BB Công nghệ thông tin,D+,1.5,TCNTT
+34,34,IT4080,Nhập môn công nghệ phần mềm,5,True,2,3,IT3180,BB Công nghệ thông tin,B,3,TCNTT
+35,35,IT4991,Thực tập kỹ thuật,7,True,2,2,IT4991,TTKT,A+,4,TCNTT
+36,36,MI2020,Xác suất thống kê,3,True,3,3,MI2020,BB Công nghệ thông tin,D,1,KTTD
+37,37,PH1130,Vật lý đại cương III,3,True,3,3,PH1130,BB Công nghệ thông tin,C+,2.5,VVLKT
+38,38,FL1100,Tiếng Anh 1, ,False,0,,,TC, , ,KNN
+39,39,FL1101,Tiếng Anh 2, ,False,0,,,TC, , ,KNN
+40,40,FL1102,TOEIC II, ,False,0,,,TC, , ,KNN
+41,41,PE1014,Lý luận TDTT, ,False,0,,,"Tự chọn GDTC A,B", , ,BGDTC
+42,42,PE1024,Bơi lội,2,False,0,,,Tự chọn GDTC B, , ,BGDTC
+43,43,IT4995,Đồ án tốt nghiệp cử nhân,8,False,6,,,ĐATN cử nhân, , ,TCNTT
+44,44,PE1015,Thể dục tay không, ,False,0,,,TCII, , ,BGDTC
+45,45,PE2261,Karatedo, ,False,0,,,TCII, , ,BGDTC
+46,46,EV3305,Môi trường và con người, ,False,2,2,EV3305,TCTD,B,3, 
+47,47,FL1431,Tiếng Nhật I, ,False,3,3,FL1431,TCTD,A+,4, 
+48,48,ED3110,Tâm lý học, ,False,4,4,ED3110,TCTD,A,4, 
+49,49,IT4785,Phát triển ứng dụng cho thiết bị di động, ,False,2,2,IT4785,TCTD,D+,1.5, 
+50,50,PE2101,Bóng chuyền 1,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+51,51,PE2151,Erobic,3,False,0,0,PE2151,Tự chọn GDTC C,B+,3.5,BGDTC
+52,52,PE2201,Bóng đá 1,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+53,53,PE2301,Bóng rổ 1,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+54,54,PE2401,Bóng bàn 1,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+55,55,PE2501,Cầu lông 1,4,False,0,0,PE2501,Tự chọn GDTC D,B,3,BGDTC
+56,56,PE2601,Chạy,3,False,0,,,Tự chọn GDTC C, , ,BGDTC
+57,57,PE2701,Nhảy cao, ,False,0,,,"Tự chọn GDTC A,B", , ,BGDTC
+58,58,PE2801,Nhảy xa, ,False,0,,,"Tự chọn GDTC A,B", , ,BGDTC
+59,59,PE2901,"Xà kép, xà lệch",3,False,0,,,Tự chọn GDTC C, , ,BGDTC
+60,60,PE2010,Giáo dục thể chất D,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+61,61,PE2011,Bóng đá I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+62,62,PE2012,Bóng chuyền I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+63,63,PE2013,Bóng rổ I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+64,64,PE2014,Bóng ném I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+65,65,PE2015,Aerobic I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+66,66,PE2016,Cầu lông I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+67,67,PE2017,Bóng bàn I,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+68,68,PE2018,Giáo dục thể chất E6,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+69,69,PE2019,Giáo dục thể chất E7,4,False,0,,,Tự chọn GDTC D, , ,BGDTC
+70,70,PE2102,Bóng chuyền 2,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+71,71,PE2202,Bóng đá 2,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+72,72,PE2302,Bóng rổ 2,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+73,73,PE2402,Bóng bàn 2,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+74,74,PE2502,Cầu lông 2,5,False,0,0,PE2502,Tự chọn GDTC E,D,1,BGDTC
+75,75,PE2020,Giáo dục thể chất E,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+76,76,PE2021,Bóng đá II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+77,77,PE2022,Bóng chuyền II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+78,78,PE2023,Bóng rổ II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+79,79,PE2024,Bóng ném II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+80,80,PE2025,Aerobic II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+81,81,PE2026,Cầu lông II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+82,82,PE2027,Bóng bàn II,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+83,83,PE2028,Giáo dục thể chất E8,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+84,84,PE2029,Giáo dục thể chất E9,5,False,0,,,Tự chọn GDTC E, , ,BGDTC
+85,85,IT4020,Nhập môn lý thuyết tính toán,6,False,3,,,Định hướng KHMT, , ,TCNTT
+86,86,IT4030,Nhập môn hệ quản trị cơ sở dữ liệu,6,False,2,,,Định hướng KHMT, , ,TCNTT
+87,87,IT4050,Thiết kế và phân tích thuật toán,7,False,3,,,Định hướng KHMT, , ,TCNTT
+88,88,IT4079,Ngôn ngữ và phương pháp dịch,6,False,2,,,Định hướng KHMT, , ,TCNTT
+89,89,IT4110,Tính toán khoa học,7,False,3,,,Định hướng KHMT, , ,TCNTT
+90,90,IT4130,Lập trình song song,7,False,2,,,Định hướng KHMT, , ,TCNTT
+91,91,IT4141,Các thuật toán cơ bản trong tính toán tiến hoá,8,False,3,,,Định hướng KHMT/BSCNKS KHMT, , ,TCNTT
+92,92,IT4310,Cơ sở dữ liệu nâng cao,7,False,3,2,IT4818,Định hướng HTTT,A,4,TCNTT
+93,93,IT4341,Hệ trợ giúp quyết định,7,False,2,3,IT4613,Định hướng HTTT,D+,1.5,TCNTT
+94,94,IT4361,Hệ cơ sở tri thức,6,False,2,3,IT4931,Định hướng HTTT,A,4,TCNTT
+95,95,IT4371,Các hệ phân tán,7,False,2,2,IT4611,Định hướng HTTT,B+,3.5,TCNTT
+96,96,IT4409,Công nghệ Web và dịch vụ trực tuyến,6,False,3,3,IT4409,Định hướng HTTT,B,3,TCNTT
+97,97,IT4421,Đồ án các công nghệ xây dựng HTTT,7,False,3,3,IT5005,Định hướng HTTT,A,4,TCNTT
+98,98,IT4859,Thiết kế và quản trị cơ sở dữ liệu,8,False,3,2,IT4435,Định hướng HTTT,C,2,TCNTT
+99,99,IT4440,Tương tác Người –Máy,7,False,3,,,Định hướng CNPM, , ,TCNTT
+100,100,IT4460,Phân tích yêu cầu phần mềm,6,False,2,,,Định hướng CNPM, , ,TCNTT
+101,101,IT4480,Làm việc nhóm và kỹ năng giao tiếp,6,False,2,2,IT4480,Định hướng CNPM,A,4,TCNTT
+102,102,IT4530,Kỹ năng lập báo cáo kỹ thuật và dự án,7,False,1,,,Định hướng CNPM, , ,TCNTT
+103,103,IT4541,Quản lý dự án phần mềm,7,False,2,,,Định hướng CNPM, , ,TCNTT
+104,104,IT4551,Phát triển phần mềm chuyên nghiệp,7,False,3,,,Định hướng CNPM, , ,TCNTT
+105,105,IT4141,Các thuật toán cơ bản trong tính toán tiến hoá,8,False,3,,,Định hướng KHMT/BSCNKS KHMT, , ,TCNTT
+106,106,IT4759,Tìm kiếm cục bộ dựa trên ràng buộc,8,False,3,,,BSCNKS KHMT, , ,TCNTT
+107,107,IT4768,Nhập môn khai phá dữ liệu,8,False,3,,,BSCNKS KHMT, , ,TCNTT
+108,108,IT4769,Tối ưu hoá tổ hợp,8,False,3,,,BSCNKS KHMT, , ,TCNTT
+109,109,IT4777,Hình học tính toán,8,False,3,,,BSCNKS KHMT, , ,TCNTT
+110,110,IT4778,Lập trình hệ thống,9,False,3,,,BSCNKS KHMT, , ,TCNTT
+111,111,IT4843,Tích hợp dữ liệu và XML,8,False,3,3,IT5420,BSCNKS HTTT,D,1,TCNTT
+112,112,IT4851,Hệ cơ sở dữ liệu đa phương tiện,8,False,3,3,IT4470,BSCNKS HTTT,B+,3.5,TCNTT
+113,113,IT4853,Tìm kiếm thông tin và trình diễn thông tin,9,False,3,3,IT4863,BSCNKS HTTT,B,3,TCNTT
+114,114,IT4865,Tính toán phân tán,8,False,3,3,IT4490,BSCNKS HTTT,D,1,TCNTT
+115,115,IT4501,Đảm bảo chất lượng Phần mềm,8,False,2,,,BSCNKS CNPM, , ,TCNTT
+116,116,IT4520,Kinh tế công nghệ phần mềm,8,False,2,,,BSCNKS CNPM, , ,TCNTT
+117,117,IT4883,Phát triển phần mềm phân tán,9,False,3,,,BSCNKS CNPM, , ,TCNTT
+118,118,IT4885,Mô hình và thuật toán Internet phổ biến,8,False,3,,,BSCNKS CNPM, , ,TCNTT
+119,119,IT4756,Thương mại điện tử,9,False,2,,,TCKS KHMT, , ,TCNTT
+120,120,IT4757,Kỹ thuật mô hình hóa và mô phỏng,9,False,2,,,TCKS KHMT, , ,TCNTT
+121,121,IT4758,Nhập môn học máy,9,False,3,,,TCKS KHMT, , ,TCNTT
+122,122,IT4766,Lập trình kịch bản với JavaScript,9,False,2,,,TCKS KHMT, , ,TCNTT
+123,123,IT4772,Xử lý ngôn ngữ tự nhiên,9,False,3,3,IT4772,TCKS HTTT/TCKS KHMT,D+,1.5,TCNTT
+124,124,IT4774,Nhập môn nén dữ liệu,9,False,3,,,TCKS KHMT, , ,TCNTT
+125,125,IT4779,Xử lý dữ liệu lớn,9,False,2,,,TCKS KHMT, , ,TCNTT
+126,126,IT4772,Xử lý ngôn ngữ tự nhiên,9,False,3,3,IT4772,TCKS HTTT/TCKS KHMT,D+,1.5,TCNTT
+127,127,IT4844,Xử lý thông tin mờ,9,False,3,,,TCKS HTTT, , ,TCNTT
+128,128,IT4856,Quản trị dự án,9,False,2,2,IT4240,TCKS HTTT,A,4,TCNTT
+129,129,IT4866,Học máy,9,False,2,3,IT3190,TCKS HTTT,C,2,TCNTT
+130,130,IT4867,Xử lý dữ liệu phân tán,9,False,2,,,TCKS HTTT, , ,TCNTT
+131,131,IT4868,Khai phá Web,9,False,3,3,IT4868,TCKS HTTT,C,2,TCNTT
+132,132,IT4875,Xử lý ngôn ngữ tự nhiên,8,False,2,,,TCKS CNPM, , ,TCNTT
+133,133,IT4876,Nhập môn chương trình dịch,8,False,2,,,TCKS CNPM, , ,TCNTT
+134,134,IT4884,Các hệ thống nhúng và thời gian thực,8,False,3,,,TCKS CNPM, , ,TCNTT
+135,135,IT4886,Kỹ nghệ Phần mềm hướng dịch vụ,8,False,3,,,TCKS CNPM, , ,TCNTT
+136,136,IT4887,Mạng không dây và phát triển ứng dụng di động,8,False,3,,,TCKS CNPM, , ,TCNTT
+137,137,IT4888,Văn phong Kỹ thuật,8,False,3,,,TCKS CNPM, , ,TCNTT
+138,138,IT4892,Phương pháp và công cụ đánh giá phần mềm,8,False,3,,,TCKS CNPM, , ,TCNTT
+139,139,IT4895,Công nghệ Web tiên tiến,8,False,2,,,TCKS CNPM, , ,TCNTT
+140,140,IT4898,"Multimedia, trò chơi và các hệ thống giải trí",8,False,2,,,TCKS CNPM, , ,TCNTT
+141,141,IT4899,Hệ thống hướng tác tử,9,False,2,,,TCKS HTTT/CNPM, , ,TCNTT
+142,142,IT5210,Đồ án tốt nghiệp kỹ sư (KHMT),10,False,12,,,ĐATN KS (KHMT), , ,TCNTT
+143,143,IT5230,Đồ án tốt nghiệp kỹ sư (HTTT),10,False,12,,,ĐATN KS (HTTT), , ,TCNTT
+144,144,IT5240,Đồ án tốt nghiệp kỹ sư (KTPM),10,False,12,,,ĐATN KS (CNPM), , ,TCNTT

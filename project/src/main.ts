@@ -15,7 +15,6 @@ async function bootstrap() {
     .addTag('Argorithm')
     .addTag('Courses')
     .addTag('Course')
-    .addTag('User')
     .addTag('Tred')
     .build();
   const document = SwaggerModule.createDocument(app, config);
