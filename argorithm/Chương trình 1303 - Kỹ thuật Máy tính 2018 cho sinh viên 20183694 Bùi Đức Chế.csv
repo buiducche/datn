@@ -1,0 +1,137 @@
+,STT,Mã HP,Tên HP,Kỳ học,Bắt buộc,TC ĐT,TC học,Mã HP học,Ghi chú loại HP,Điểm chữ,Điểm số,Viện/Khoa
+0,0,IT4997,Đồ án tốt nghiệp cử nhân,8,False,6,,,Đồ án tốt nghiệp cử nhân, , ,TCNTT
+1,1,PE1015,Thể dục tay không, ,False,0,,,TCII, , ,BGDTC
+2,2,PE2261,Karatedo, ,False,0,,,TCII, , ,BGDTC
+3,3,PE2101,Bóng chuyền 1,3,False,0,0,PE2101, ,C,2,BGDTC
+4,4,PE2151,Erobic,3,False,0,,, , , ,BGDTC
+5,5,PE2201,Bóng đá 1,3,False,0,,, , , ,BGDTC
+6,6,PE2251,Taekwondo 1,3,False,0,,, , , ,BGDTC
+7,7,PE2301,Bóng rổ 1,3,False,0,,, , , ,BGDTC
+8,8,PE2401,Bóng bàn 1,3,False,0,,, , , ,BGDTC
+9,9,PE2501,Cầu lông 1,3,False,0,0,PE2501, ,B,3,BGDTC
+10,10,PE2601,Chạy, ,False,0,0,PE2601, ,C,2,BGDTC
+11,11,PE2701,Nhảy cao, ,False,0,,, , , ,BGDTC
+12,12,PE2801,Nhảy xa, ,False,0,,, , , ,BGDTC
+13,13,PE2901,"Xà kép, xà lệch", ,False,0,,, , , ,BGDTC
+14,14,PE3101,Chuyên sâu Bóng chuyền 1,1,False,0,,, , , ,BGDTC
+15,15,PE3102,Chuyên sâu Bóng chuyền 2,2,False,0,,, , , ,BGDTC
+16,16,PE3103,Chuyên sâu Bóng chuyền 3,3,False,0,,, , , ,BGDTC
+17,17,PE3201,Chuyên sâu Bóng đá 1,1,False,0,,, , , ,BGDTC
+18,18,PE3202,Chuyên sâu Bóng đá 2,2,False,0,,, , , ,BGDTC
+19,19,PE3203,Chuyên sâu Bóng đá 3,3,False,0,,, , , ,BGDTC
+20,20,PE3301,Chuyên sâu Bóng rổ 1,1,False,0,,, , , ,BGDTC
+21,21,PE3302,Chuyên sâu Bóng rổ 2,2,False,0,,, , , ,BGDTC
+22,22,PE3303,Chuyên sâu Bóng rổ 3,3,False,0,,, , , ,BGDTC
+23,23,PE2102,Bóng chuyền 2,4,False,0,,, , , ,BGDTC
+24,24,PE2202,Bóng đá 2,4,False,0,,, , , ,BGDTC
+25,25,PE2252,Taekwondo 2,4,False,0,,, , , ,BGDTC
+26,26,PE2302,Bóng rổ 2,4,False,0,,, , , ,BGDTC
+27,27,PE2402,Bóng bàn 2,4,False,0,,, , , ,BGDTC
+28,28,PE2502,Cầu lông 2,4,False,0,,, , , ,BGDTC
+29,29,PE3104,Chuyên sâu Bóng chuyền 4,4,False,0,,, , , ,BGDTC
+30,30,PE3204,Chuyên sâu Bóng đá 4,4,False,0,,, , , ,BGDTC
+31,31,PE3304,Chuyên sâu Bóng rổ 4,4,False,0,,, , , ,BGDTC
+32,32,PE2103,Bóng chuyền 3,5,False,0,,, , , ,BGDTC
+33,33,PE2203,Bóng đá 3,5,False,0,,, , , ,BGDTC
+34,34,PE2253,Taekwondo 3,5,False,0,,, , , ,BGDTC
+35,35,PE2303,Bóng rổ 3,5,False,0,,, , , ,BGDTC
+36,36,PE2403,Bóng bàn 3,5,False,0,,, , , ,BGDTC
+37,37,PE2503,Cầu lông 3,5,False,0,,, , , ,BGDTC
+38,38,PE3105,Chuyên sâu Bóng chuyền 5,5,False,0,,, , , ,BGDTC
+39,39,PE3205,Chuyên sâu Bóng đá 5,5,False,0,,, , , ,BGDTC
+40,40,PE3305,Chuyên sâu Bóng rổ 5,5,False,0,,, , , ,BGDTC
+41,41,IT3190,Nhập môn Học máy và khai phá dữ liệu,8,False,3,3,IT3190,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,B,3,TCNTT
+42,42,IT4425,Phát triển phần mềm nhúng thông minh,9,False,2,2,IT4425,Bổ sung chuyên ngành kỹ sư 1,B+,3.5,TCNTT
+43,43,IT4429,Công nghệ nhận dạng và tổng hợp tiếng nói,9,False,2,2,IT4429,Bổ sung chuyên ngành kỹ sư 1,B,3,TCNTT
+44,44,IT4431,Tin sinh học,9,False,2,2,IT4431,Bổ sung chuyên ngành kỹ sư 1,A,4,TCNTT
+45,45,IT5007,Đồ án thiết kế Kỹ thuật máy tính,8,False,3,3,IT5007,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,A,4,TCNTT
+46,46,IT5310,Các công nghệ truyền thông cho IoT,8,False,3,3,IT5310,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,B+,3.5,TCNTT
+47,47,IT5409,Thị giác máy tính,8,False,3,3,IT5409,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,A,4,TCNTT
+48,48,IT3190,Nhập môn Học máy và khai phá dữ liệu,8,False,3,3,IT3190,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,B,3,TCNTT
+49,49,IT4527,Blockchain và ứng dụng,9,False,2,,,Bổ sung chuyên ngành kỹ sư 2, , ,TCNTT
+50,50,IT4622,Mã hóa dữ liệu đa phương tiện,9,False,2,,,Bổ sung chuyên ngành kỹ sư 2, , ,TCNTT
+51,51,IT4815,Quản trị mạng,9,False,2,,,Bổ sung chuyên ngành kỹ sư 2, , ,TCNTT
+52,52,IT5007,Đồ án thiết kế Kỹ thuật máy tính,8,False,3,3,IT5007,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,A,4,TCNTT
+53,53,IT5310,Các công nghệ truyền thông cho IoT,8,False,3,3,IT5310,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,B+,3.5,TCNTT
+54,54,IT5409,Thị giác máy tính,8,False,3,3,IT5409,Bổ sung chuyên ngành kỹ sư 1/BSCNKS2,A,4,TCNTT
+55,55,IT4244,Quản trị dự án CNTT, ,False,2,2,IT4244,Tự chọn kỹ sư 1,A,4,TCNTT
+56,56,IT4423,Các kỹ thuật định vị và ứng dụng, ,False,2,2,IT4423,Tự chọn kỹ sư 1,B+,3.5,TCNTT
+57,57,IT4670,Đánh giá hiệu năng mạng, ,False,2,,,Tự chọn kỹ sư 1, , ,TCNTT
+58,58,IT4885,Mô hình và thuật toán Internet phổ biến, ,False,3,,,Tự chọn kỹ sư 1, , ,TCNTT
+59,59,IT4922,Mạng thế hệ sau, ,False,2,,,Tự chọn kỹ sư 1, , ,TCNTT
+60,60,IT5320,An toàn thông tin cho IoT, ,False,2,,,Tự chọn kỹ sư 1, , ,TCNTT
+61,61,IT5425,Quản trị dữ liệu và trực quan hóa, ,False,2,2,IT5425,Tự chọn kỹ sư 1,B+,3.5,TCNTT
+62,62,IT5150,Đồ án kỹ sư, ,False,9,,,Đồ án kỹ sư, , ,TCNTT
+63,63,IT5001,Thực tập kỹ sư, ,False,3,3,IT5001,Thực tập kỹ sư,A,4,TCNTT
+64,64,EM1170,Pháp luật đại cương,1,True,2,2,EM1170,Pháp luật đại cương,B,3,KKTVQL
+65,65,SSH1050,Tư tưởng HCM,3,True,2,2,SSH1050,Lý luận chính trị,D,1,KML
+66,66,SSH1110,Những NLCB của CNML I,1,True,2,2,SSH1110,Lý luận chính trị,B,3,KML
+67,67,SSH1120,Những NLCB của CNML II,2,True,3,3,SSH1120,Lý luận chính trị,C+,2.5,KML
+68,68,SSH1130,Đường lối CM của ĐCSVN,4,True,3,3,SSH1130,Lý luận chính trị,B+,3.5,KML
+69,69,PE1014,Lý luận TDTT,1,True,0,0,PE1014,Giáo dục thể chất,A,4,BGDTC
+70,70,PE1024,Bơi lội,2,True,0,0,PE1024,Giáo dục thể chất,R,0,BGDTC
+71,71,MIL1110,Đường lối quân sự,1,True,0,0,MIL1110,Giáo dục Quốc phòng - An ninh,D,1,KGDQP
+72,72,MIL1120,Công tác quốc phòng-An ninh,2,True,0,0,MIL1120,Giáo dục Quốc phòng - An ninh,D+,1.5,KGDQP
+73,73,MIL1130,QS chung và KCT bắn súng AK,3,True,0,0,MIL1130,Giáo dục Quốc phòng - An ninh,C+,2.5,KGDQP
+74,74,FL1100,Tiếng Anh 1,1,True,0,0,FL1100,Tiếng Anh,B+,3.5,KNN
+75,75,FL1101,Tiếng Anh 2,2,True,0,0,FL1101,Tiếng Anh,B+,3.5,KNN
+76,76,IT1110,Tin học đại cương,2,True,4,4,IT1110,Khối kiến thức Toán và Khoa học cơ bản,B+,3.5,TCNTT
+77,77,IT3020,Toán rời rạc,3,True,3,3,IT3020,Khối kiến thức Toán và Khoa học cơ bản,A,4,TCNTT
+78,78,MI1111,Giải tích I,1,True,4,4,MI1111,Khối kiến thức Toán và Khoa học cơ bản,B,3,KTTD
+79,79,MI1121,Giải tích II,2,True,3,3,MI1121,Khối kiến thức Toán và Khoa học cơ bản,D,1,KTTD
+80,80,MI1131,Giải tích III,3,True,3,3,MI1131,Khối kiến thức Toán và Khoa học cơ bản,B,3,KTTD
+81,81,MI1141,Đại số,1,True,4,4,MI1141,Khối kiến thức Toán và Khoa học cơ bản,B,3,KTTD
+82,82,MI2010,Phương pháp tính,3,True,2,2,MI2010,Khối kiến thức Toán và Khoa học cơ bản,C+,2.5,KTTD
+83,83,MI2020,Xác suất thống kê,3,True,3,3,MI2020,Khối kiến thức Toán và Khoa học cơ bản,C,2,KTTD
+84,84,PH1110,Vật lý đại cương I,2,True,3,3,PH1110,Khối kiến thức Toán và Khoa học cơ bản,B+,3.5,VVLKT
+85,85,PH1120,Vật lý đại cương II,3,True,3,3,PH1120,Khối kiến thức Toán và Khoa học cơ bản,C+,2.5,VVLKT
+86,86,IT2000,Nhập môn CNTT và TT,1,True,3,3,IT2000,Cơ sở và cốt lõi ngành,A,4,TCNTT
+87,87,IT2030,Technical Writing and Presentation, ,True,3,3,IT2030,Cơ sở và cốt lõi ngành,B+,3.5,TCNTT
+88,88,IT3011,Cấu trúc dữ liệu và thuật toán,4,True,2,2,IT3011,Cơ sở và cốt lõi ngành,A,4,TCNTT
+89,89,IT3030,Kiến trúc máy tính,4,True,3,3,IT3030,Cơ sở và cốt lõi ngành,A+,4,TCNTT
+90,90,IT3040,Kỹ thuật lập trình,4,True,2,2,IT3040,Cơ sở và cốt lõi ngành,B+,3.5,TCNTT
+91,91,IT3070,Nguyên lý hệ điều hành,5,True,3,3,IT3070,Cơ sở và cốt lõi ngành,B+,3.5,TCNTT
+92,92,IT3080,Mạng máy tính,5,True,3,3,IT3080,Cơ sở và cốt lõi ngành,B,3,TCNTT
+93,93,IT3090,Cơ sở dữ liệu,5,True,3,3,IT3090,Cơ sở và cốt lõi ngành,A,4,TCNTT
+94,94,IT3100,Lập trình hướng đối tượng,5,True,2,2,IT3100,Cơ sở và cốt lõi ngành,A,4,TCNTT
+95,95,IT3120,Phân tích và thiết kế hệ thống,6,True,2,2,IT3120,Cơ sở và cốt lõi ngành,B,3,TCNTT
+96,96,IT3150,Project I,5,True,2,2,IT3150,Cơ sở và cốt lõi ngành,A+,4,TCNTT
+97,97,IT3170,Thuật toán ứng dụng,5,True,2,2,IT3170,Cơ sở và cốt lõi ngành,B+,3.5,TCNTT
+98,98,IT3180,Nhập môn công nghệ phần mềm,5,True,3,3,IT3180,Cơ sở và cốt lõi ngành,B,3,TCNTT
+99,99,IT3420,Điện tử cho CNTT,3,True,2,2,IT3420,Cơ sở và cốt lõi ngành,A+,4,TCNTT
+100,100,IT3931,Project II,6,True,2,2,IT3931,Cơ sở và cốt lõi ngành,A+,4,TCNTT
+101,101,IT3943,Project III,7,True,3,3,IT3943,Cơ sở và cốt lõi ngành,A+,4,TCNTT
+102,102,IT4015,Nhập môn an toàn thông tin,6,True,3,3,IT4015,Cơ sở và cốt lõi ngành,A,4,TCNTT
+103,103,IT4060,Lập trình mạng,6,True,2,2,IT4060,Cơ sở và cốt lõi ngành,A,4,TCNTT
+104,104,IT4172,Xử lý tín hiệu,5,True,2,2,IT4172,Cơ sở và cốt lõi ngành,C+,2.5,TCNTT
+105,105,IT4593,Nhập môn kỹ thuật truyền thông,5,True,2,2,IT4593,Cơ sở và cốt lõi ngành,B,3,TCNTT
+106,106,IT4611,Các hệ thống phân tán và ứng dụng,7,True,2,2,IT4611,Cơ sở và cốt lõi ngành,A,4,TCNTT
+107,107,CH2021,Đổi mới sáng tạo và khởi nghiệp, ,False,2,,,Kiến thức bổ trợ, , ,KCNHH
+108,108,ED3220,Kỹ năng mềm, ,False,2,2,ED3220,Khối kiến thức bổ trợ,A+,4,KSPKT
+109,109,ED3280,Tâm lý học ứng dụng, ,False,2,2,ED3280,Khối kiến thức bổ trợ,A+,4,KSPKT
+110,110,EM1010,Quản trị học đại cương,1,False,2,,,Khối kiến thức bổ trợ, , ,KKTVQL
+111,111,EM1180,Văn hóa kinh doanh và tinh thần khởi nghiệp,7,False,2,,,Khối kiến thức bổ trợ, , ,KKTVQL
+112,112,ET3262,Tư duy công nghệ và thiết kế kỹ thuật, ,False,2,,,Khối kiến thức bổ trợ, , ,TDDT
+113,113,ME3123,Thiết kế mỹ thuật công nghiệp, ,False,2,2,ME3123,Kiến thức bổ trợ,A+,4,TCK
+114,114,ME3124,Thiết kế quảng bá sản phẩm, ,False,2,,,Kiến thức bổ trợ, , ,TCK
+115,115,TEX3123,Thiết kế mỹ thuật công nghiệp, ,False,2,,,Khối kiến thức bổ trợ, , ,KCNDMVTT
+116,116,IT4991,Thực tập kỹ thuật,6,False,2,2,IT4991,Thực tập kỹ thuật,A+,4,TCNTT
+117,117,IT4210,Hệ nhúng,6,False,3,3,IT4210,Mô đun 1 (Hệ thống nhúng và IoT),B,3,TCNTT
+118,118,IT4409,Công nghệ Web và dịch vụ trực tuyến,7,False,3,3,IT4409,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+119,119,IT4651,Thiết kế và triển khai mạng IP,6,False,3,3,IT4651,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,A,4,TCNTT
+120,120,IT4735,IoT và ứng dụng,7,False,2,2,IT4735,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2,A,4,TCNTT
+121,121,IT4785,Phát triển ứng dụng cho thiết bị di động,5,False,2,2,IT4785,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+122,122,IT4931,Lưu trữ và xử lý dữ liệu lớn,8,False,3,3,IT4931,Mô đun 1 (Hệ thống nhúng và IoT),A,4,TCNTT
+123,123,IT4263,An ninh mạng,7,False,3,,,Mô đun 2/Mô đun 3, , ,TCNTT
+124,124,IT4409,Công nghệ Web và dịch vụ trực tuyến,7,False,3,3,IT4409,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+125,125,IT4651,Thiết kế và triển khai mạng IP,6,False,3,3,IT4651,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,A,4,TCNTT
+126,126,IT4681,Truyền thông đa phương tiện,7,False,3,,,Mô đun 2, , ,TCNTT
+127,127,IT4735,IoT và ứng dụng,7,False,2,2,IT4735,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2,A,4,TCNTT
+128,128,IT4785,Phát triển ứng dụng cho thiết bị di động,5,False,2,2,IT4785,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+129,129,IT4025,Mật mã ứng dụng,7,False,3,,,Mô đun 3, , ,TCNTT
+130,130,IT4263,An ninh mạng,7,False,3,,,Mô đun 2/Mô đun 3, , ,TCNTT
+131,131,IT4409,Công nghệ Web và dịch vụ trực tuyến,7,False,3,3,IT4409,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+132,132,IT4651,Thiết kế và triển khai mạng IP,6,False,3,3,IT4651,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,A,4,TCNTT
+133,133,IT4785,Phát triển ứng dụng cho thiết bị di động,5,False,2,2,IT4785,Mô đun 1 (Hệ thống nhúng và IoT)/Mô đun 2/Mô đun 3,B+,3.5,TCNTT
+134,134,IT4831,Phòng chống tấn công mạng,8,False,2,,,Mô đun 3, , ,TCNTT
+135,135,IT4999,Đồ án nghiên cứu Cử nhân (Kỹ thuật máy tính),8,False,8,,,Đồ án nghiên cứu, , ,TCNTT
