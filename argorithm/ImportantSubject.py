@@ -1,10 +1,13 @@
 import csv
 import re
+import sys
+
 import networkx as nx
 
 G = nx.DiGraph()
+studentid = a = sys.argv[1]
 
-Person_csv = open('Chương trình 1303 - Kỹ thuật Máy tính 2018 cho sinh viên 20183694 Bùi Đức Chế.csv', 'r', encoding="utf-8-sig")
+Person_csv = open(f'{studentid}.csv', 'r', encoding="utf-8-sig")
 Person_data = csv.DictReader(Person_csv)
 EDUCATION_PROGRAMME_NAME = Person_csv.name
 EDUCATION_PROGRAMME_COURSES = []
