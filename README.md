@@ -17,11 +17,13 @@ A website and webapi show the dependency tree of courses, help students choose w
 ```
 
 - Step 2: generate dependency graphs
+```dos
     python ./crawl/argorithm/gentree.py
     python ./crawl/argorithm/gentree_personal.py
     
     Output:../assets/graph0/*
            ../assets/{MSSV}.png
+```
 - Step 3: run web 
     read ./project/README.md
 
